@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { Resources } from "./Resources";
+import { Resources } from "../Resources/index";
 import Pagination from "react-js-pagination";
 import { songsdata } from "../Player/audios";
 import "../style.css";
