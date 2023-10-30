@@ -1,4 +1,4 @@
-const base = "/images";
+const base = "/Images";
 
 export const Resources = {
   images: {
